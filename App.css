@@ -1,0 +1,14 @@
+.head{
+  background-color: rgb(235, 158, 17);
+  width:500px;
+  text-align: center;
+  margin-left: 500px;
+}
+.loc{
+  margin-left: 550px;
+  font-size: larger;
+  font-style:italic;
+}
+.tex{
+  margin-left: 600px;
+}
