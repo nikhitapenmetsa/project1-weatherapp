@@ -1,0 +1,39 @@
+.main{
+  
+  background-image: url(original.jpg);
+  height:500px;
+  width:600px;
+  margin-left: 500px;
+  margin-top: 100px;
+  border-radius: 50px;
+  
+}
+
+.la1{
+  text-align: center;
+  margin-top: 50px;
+  padding-top: 50px;
+  font-size: 30px;
+  font-style: italic;
+color:whitesmoke;
+
+}
+
+.la2{
+  margin-left: 200px;
+}
+
+.la3{
+  text-align: center;
+  text-decoration:white;
+  font-size: 45px;
+  
+}
+
+.la4{
+  text-align: center;
+}
+
+.la5{
+  text-align: center;
+}
